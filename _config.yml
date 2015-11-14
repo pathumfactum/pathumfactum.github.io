@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://pathumfactum.github.io
+title: vinumscriptum
+email: 
+author: pathumfactum
+description: My awesome new site
+paginate: 3
+google_analytics: 
